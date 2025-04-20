@@ -1,0 +1,2 @@
+[target.<arch>]
+linker = "/<home>/Android/Sdk/ndk/<version>/toolchains/llvm/prebuilt/linux-x86_64/bin/<arch><min_sdk>-clang"
